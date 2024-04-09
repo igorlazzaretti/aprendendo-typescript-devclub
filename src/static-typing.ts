@@ -12,6 +12,9 @@ let isAlive: boolean = true;
 // Inferências da Linguagem:
 let animal = 'cat';
 
-animal = 2;
+//animal = 2; // da erro pq animal é string
+
+// Função com retorno Opcional
+
 
 
