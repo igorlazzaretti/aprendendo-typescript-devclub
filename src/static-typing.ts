@@ -6,7 +6,7 @@
  */
 
 // Tipagem Estática no typescript:
-let age:number = '22';
+let age:number = 22;
 const fullName:string = 'Agustinho';
 let isAlive: boolean = true;
 // Inferências da Linguagem:

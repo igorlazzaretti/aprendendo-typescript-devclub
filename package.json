@@ -1,7 +1,7 @@
 {
   "name": "aprendendo-typescript-devclub",
   "version": "1.0.0",
-  "description": "",
+  "description": "<!-- :man_technologist:API DevBurguer -->",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,11 @@
   "license": "ISC",
   "devDependencies": {
     "tsx": "^4.7.2",
-    "typescript": "^5.4.4"
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "esbuild": "^0.19.12",
+    "get-tsconfig": "^4.7.3",
+    "resolve-pkg-maps": "^1.0.0"
   }
 }
