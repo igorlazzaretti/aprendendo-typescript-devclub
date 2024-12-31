@@ -10,9 +10,13 @@
 
     Tranforme o arquivo ts em js
     $ npx tsc --init
-    $
-    
+    $ npx tsc
 
+    Agora vamos rodar o código "direto" do typescript
+    $ npm install -D tsx
+
+    $ npx tsx "nome-do-arquivo.ts"
+    
 -->
 
 ## Aprendendo Typescript - DevClub
